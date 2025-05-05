@@ -29,6 +29,7 @@ Non sono necessari requisiti per eseguire il file `.exe`, è sufficiente un sist
 
 - `verificatore_generatore_modulo.exe` – file eseguibile (zippato)
 - `README.md` – questo file di spiegazione
+- `generatore2.py` – codice python sorgente 
 
 ## Licenza
 
