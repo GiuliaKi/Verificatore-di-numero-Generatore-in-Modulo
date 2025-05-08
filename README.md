@@ -17,7 +17,9 @@ Questo programma permette di verificare se un numero `g` è un **generatore** mo
   
 -----------------------------------------------------------------------------------------------------------------------
 Non sono necessari requisiti per eseguire il file `.exe`, è sufficiente un sistema operativo Windows.
+
 -----------------------------------------------------------------------------------------------------------------------
+
 # Novità nella versione 1.1
 Aggiunta la possibilità di scegliere il tipo di gruppo:
 
@@ -27,6 +29,7 @@ Aggiunta la possibilità di scegliere il tipo di gruppo:
 
 Interfaccia identica, ma con una nuova opzione selezionabile
 
+-----------------------------------------------------------------------------------------------------------------------
 
 ##  Esecuzione
 
